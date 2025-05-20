@@ -1,8 +1,10 @@
 🧮 Calculadora Polonesa
+
     Este projeto é uma calculadora em Java que converte expressões aritméticas da notação pós-fixa (notação polonesa reversa) para as formas infixa e pré-fixa (notação 
     polonesa comum). O programa aceita somente números positivos inteiros ou decimais, com os operadores básicos: +, -, * e /.
 
 📘 Sobre as Notações
+
     🔹 Infixa
     A notação infixa é a forma mais comum e utilizada na matemática tradicional, onde os operadores são escritos entre os operandos.
     
@@ -25,6 +27,7 @@
     👉 Equivalente à infixa: (3 + 4) * 5
 
 🚀 Funcionalidades
+
     ✅ Conversão de expressões pós-fixas para:
     
     Infixa
